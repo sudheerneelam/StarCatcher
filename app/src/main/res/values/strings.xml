@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Star Catcher</string>
+    <string name="tagline">Catch the stars, dodge the bombs!</string>
+    <string name="choose_level">Choose a level</string>
+    <string name="level_complete">Level complete!</string>
+    <string name="game_over">Game over</string>
+    <string name="next_level">Next level</string>
+    <string name="replay">Replay</string>
+    <string name="retry">Try again</string>
+    <string name="menu">Menu</string>
+    <string name="score_fmt">You caught %1$d stars.</string>
+    <string name="game_over_fmt">You caught %1$d stars. Dodge the bombs!</string>
+    <string name="all_done">You did it!</string>
+    <string name="all_done_msg">You finished all levels. Thanks for playing!</string>
+
+    <!-- AdMob IDs: these are Google's official TEST ids. Replace with your own before release. -->
+    <string name="admob_app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_banner_id" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_interstitial_id" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+</resources>
